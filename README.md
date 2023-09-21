@@ -1,43 +1,4 @@
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chrome Dino Game Inspect tutorial</title>
-    <style>
-        @keyframes butterfly-flap {
-            0% {
-                transform: rotate(0deg) translateY(0);
-            }
-            25% {
-                transform: rotate(-20deg) translateY(-5px);
-            }
-            50% {
-                transform: rotate(0deg) translateY(0);
-            }
-            75% {
-                transform: rotate(20deg) translateY(-5px);
-            }
-            100% {
-                transform: rotate(0deg) translateY(0);
-            }
-        }
-
-        .butterfly-text {
-            font-size: 36px;
-            font-weight: bold;
-            position: relative;
-            display: inline-block;
-            animation: butterfly-flap 4s infinite linear;
-        }
-    </style>
-</head>
-<body>
-    <span class="butterfly-text">Butterfly</span>
-</body>
-</html>
 <p align="center">
 <img src="https://i.ibb.co/qmQGB4n/Ashi-Singhh-Pic.jpg" alt="animated" />
 </p>
