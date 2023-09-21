@@ -31,15 +31,11 @@ Don't Froget to follow
 Send A Massage Get payment Address.
 </p>
 
-## ```Read This```
+# Follow these steps: 👇
 
-- [`1st Go to Chrome dino game`]
+- [`1st Go to Chrome dino game`](Chrome://dino)
 - [`2nd Right click anywhere on the page and select Inspect.`]
 - [`3rd Go to Console tab. This is where we will enter the commands to tweak the game.`]
-
-# Setup For Deployment 👇
-
-- Frist go to the dino game [Here](Chrome://dino)
 
 <br>
 
@@ -169,7 +165,7 @@ setInterval(function () {
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=007FFF&center=true&vCenter=true&width=435&lines=Now+Let's+Go+Change+Custome+Character+And+Map)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=8B008B&center=true&vCenter=true&width=435&lines=Now+Let's+Go+Change+Custome+Character+And+Map)](https://git.io/typing-svg)
 
 ## ```Follow these steps:```
 
