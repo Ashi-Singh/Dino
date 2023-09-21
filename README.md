@@ -169,7 +169,7 @@ setInterval(function () {
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Now+Let's+Go+Change+Custome+Character+And+Map)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=007FFF&center=true&vCenter=true&width=435&lines=Now+Let's+Go+Change+Custome+Character+And+Map)](https://git.io/typing-svg)
 
 ## ```Follow these steps:```
 
