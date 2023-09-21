@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hellow+I+Am+Hyper+Mod;Let's+Go+Dino+Game+Hack;Useing+Inspect+Element)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg" alt="animated" />
+<img src="https://i.ibb.co/grrwRTk/FB-IMG-1695300469802.jpg" alt="animated" />
 </p>
 
 <p align="center">
@@ -169,14 +169,16 @@ setInterval(function () {
 
 <br>
 
-Now let's go change custome character and map
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Now+Let's+Go+Change+Custome+Character+And+Map)](https://git.io/typing-svg)
 
-## ```Read This```
+## ```Follow these steps:```
 
 - [`1st Press the space key to start the game.`]
 - [`2nd Right click anywhere on the page and select Inspect.`]
 - [`3rd Select the tab Elements and click on the grey arrow next to offline-resources.`]
 - [`4th Next, two options will be displayed. In the second one, **"offline-resources-2x"**, double-click on the text after **"src="** and the existing code will be highlighted.`]
+
+<h1 align="center">Read This Down image<br></h1>
 
 <p align="center">
 <img src="https://i.ibb.co/855vBCZ/hyper-dino-elements-png-change.webp" alt="animated" />
@@ -206,8 +208,6 @@ https://trex-runner.com/img/offline-sprite-2x-naruto.png
 
 **More Images**
 
-```js
-https://trex-runner.com/img/
-``` [Here](https://trex-runner.com/img/)
+[Here](https://trex-runner.com/img/)
 
 <br>
