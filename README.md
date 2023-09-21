@@ -1,6 +1,9 @@
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hellow+I+Am+Hyper+Mod;Let's+Go+Dino+Game+Hack;Useing+Inspect+Element)](https://git.io/typing-svg)
+
 <p align="center">
-<img src="https://i.ibb.co/qmQGB4n/Ashi-Singhh-Pic.jpg" alt="animated" />
+<img src="https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg" alt="animated" />
 </p>
 
 <p align="center">
@@ -166,4 +169,45 @@ setInterval(function () {
 
 <br>
 
-Have a fun
+Now let's go change custome character and map
+
+## ```Read This```
+
+- [`1st Press the space key to start the game.`]
+- [`2nd Right click anywhere on the page and select Inspect.`]
+- [`3rd Select the tab Elements and click on the grey arrow next to offline-resources.`]
+- [`4th Next, two options will be displayed. In the second one, **"offline-resources-2x"**, double-click on the text after **"src="** and the existing code will be highlighted.`]
+
+<p align="center">
+<img src="https://i.ibb.co/855vBCZ/hyper-dino-elements-png-change.webp" alt="animated" />
+</p>
+
+<h1 align="center">Chose you like any image🌸<br></h1>
+
+## Images add 
+
+**Batman**
+
+```js
+https://chromedino.com/assets/batman2x.png
+```
+
+**Mario Boss**
+
+```js
+https://chromedino.com/assets/offline-sprite-2x-mario.png
+```
+
+**Naruto**
+
+```js
+https://trex-runner.com/img/offline-sprite-2x-naruto.png
+```
+
+**More Images**
+
+```js
+https://trex-runner.com/img/
+``` [Here](https://trex-runner.com/img/)
+
+<br>
